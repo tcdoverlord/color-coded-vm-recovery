@@ -1,6 +1,6 @@
 # Color-Coded VM Recovery
 
-![Color-Coded VM Recovery](images/color-coded-vm-recovery-banner.png)
+![Color-Coded VM Recovery](color-coded-vm-recovery-banner.png)
 
 > A structured virtualization lifecycle framework for development, validation, production, and disaster recovery environments.
 
